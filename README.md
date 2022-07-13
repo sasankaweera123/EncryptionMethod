@@ -1,6 +1,6 @@
 # EncryptionMethod
 
-RSA & AES Cryptography develop in Java. Java Swing used for UI develpment 
+RSA & AES Cryptography develop in Java. Java Swing used for UI development.
 
 
 - AES : AES is an iterative rather than Feistel cipher. It is based on ‘substitution–permutation network’. It comprises of a series of linked operations, some of which involve replacing inputs by specific outputs (substitutions) and others involve shuffling bits around (permutations).
